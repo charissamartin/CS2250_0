@@ -1,5 +1,5 @@
 # CS2250_0
-Project 2 for CMP SCI 2250 at University of Missouri Saint Louis 1/26/18 by Charissa Martin
+Project 0 for CMP SCI 2250 at University of Missouri Saint Louis 1/26/18 by Charissa Martin
 
 Project stipulations:
 
